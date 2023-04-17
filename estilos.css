@@ -1,0 +1,22 @@
+h1{
+	text-align: center;
+}
+.tarjeta{
+	font-size: 35px;
+	border: solid 1x blue;
+	height: 200px;
+	width: 30%;
+	border-radius: 20px;
+	box-shadow: 0 3px   10px red;
+	background-image: ;
+	text-align: center;
+
+}
+.primera-linea{
+	display: flex;
+	flex-direction:row;
+	justify-content:space-evenly ;
+	
+	
+	margin-top: 10px;
+}
